@@ -1,0 +1,15 @@
+lasso MRME  5.254840917720907
+Ridge MRME  7.499006743627142
+SCAD MRME  339.86304347430473
+SCAD 5-fold MRME  nan
+Hard Threshold MRME  3.99686925189554
+lasso Correct  2.76
+Ridge Correct  0.0
+SCAD Correct  4.89
+SCAD 5-fold Correct  4.88
+Hard Threshold Correct  3.81
+lasso InCorrect  0.0
+Ridge InCorrect  0.0
+SCAD InCorrect  0.7
+SCAD 5-fold InCorrect  0.63
+Hard Threshold InCorrect  0.0
